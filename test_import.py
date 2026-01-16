@@ -20,7 +20,7 @@ try:
         url="http://test.com",
         pdf_url=None
     )
-    print(f"✅ Created case: {test_case.title}")
+    print(f"Created case: {test_case.title}")
     
 except ImportError as e:
     print(f"\n Import error: {e}")
