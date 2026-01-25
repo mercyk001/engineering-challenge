@@ -1,0 +1,10 @@
+aiohttp
+beautifulsoup4
+lxml
+pydantic
+elasticsearch>=8.0.0
+python-docx
+pypdf
+typer
+rich
+tenacity

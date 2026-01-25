@@ -1,0 +1,10 @@
+aiohttp
+beautifulsoup4
+lxml
+pandas
+typer
+python-docx
+pypdf
+elasticsearch
+tenacity
+tqdm
