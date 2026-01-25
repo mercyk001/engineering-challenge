@@ -1,15 +1,22 @@
 [[source]]
+name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
 
 [packages]
 aiohttp = "*"
 beautifulsoup4 = "*"
-elasticsearch = "*"
-click = "*"
+lxml = "*"
+pandas = "*"
+tenacity = "*"
+python-dotenv = "*"
+tldextract = "*"
+requests = "*"
+elasticsearch = "*"  # optional
+pytest = "*"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_version = "3.8"

@@ -1,2 +1,24 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyo
 
+# Virtual envs
+.venv/
+env/
+venv/
+
+# Data and logs
+data/
+pdfs/
+logs/
+.scrapy/
+
+# Pipenv
+Pipfile.lock
+
+# IDE
+.vscode/
+.idea/
+*.iml
 
